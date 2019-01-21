@@ -1,0 +1,11 @@
+DROP TABLE Technician;
+DROP TABLE Skill;
+DROP TABLE Guest;
+DROP TABLE TenantLease;
+DROP TABLE Lease;
+DROP TABLE ManagerOffices;
+DROP TABLE Tenants;
+DROP TABLE Employee;
+DROP TABLE Apartment;
+DROP TABLE Building;
+DROP TABLE Person;
